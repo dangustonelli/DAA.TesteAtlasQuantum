@@ -1,0 +1,14 @@
+C:\Labs\DAA.TesteAtlasQuantum\src\DAA.TesteAtlasQuantum.WebAPI\bin\Debug\netcoreapp2.2\DAA.TesteAtlasQuantum.WebAPI.deps.json
+C:\Labs\DAA.TesteAtlasQuantum\src\DAA.TesteAtlasQuantum.WebAPI\bin\Debug\netcoreapp2.2\DAA.TesteAtlasQuantum.WebAPI.runtimeconfig.json
+C:\Labs\DAA.TesteAtlasQuantum\src\DAA.TesteAtlasQuantum.WebAPI\bin\Debug\netcoreapp2.2\DAA.TesteAtlasQuantum.WebAPI.runtimeconfig.dev.json
+C:\Labs\DAA.TesteAtlasQuantum\src\DAA.TesteAtlasQuantum.WebAPI\bin\Debug\netcoreapp2.2\DAA.TesteAtlasQuantum.WebAPI.dll
+C:\Labs\DAA.TesteAtlasQuantum\src\DAA.TesteAtlasQuantum.WebAPI\bin\Debug\netcoreapp2.2\DAA.TesteAtlasQuantum.WebAPI.pdb
+C:\Labs\DAA.TesteAtlasQuantum\src\DAA.TesteAtlasQuantum.WebAPI\obj\Debug\netcoreapp2.2\DAA.TesteAtlasQuantum.WebAPI.csproj.CoreCompileInputs.cache
+C:\Labs\DAA.TesteAtlasQuantum\src\DAA.TesteAtlasQuantum.WebAPI\obj\Debug\netcoreapp2.2\DAA.TesteAtlasQuantum.WebAPI.RazorAssemblyInfo.cache
+C:\Labs\DAA.TesteAtlasQuantum\src\DAA.TesteAtlasQuantum.WebAPI\obj\Debug\netcoreapp2.2\DAA.TesteAtlasQuantum.WebAPI.RazorAssemblyInfo.cs
+C:\Labs\DAA.TesteAtlasQuantum\src\DAA.TesteAtlasQuantum.WebAPI\obj\Debug\netcoreapp2.2\DAA.TesteAtlasQuantum.WebAPI.AssemblyInfoInputs.cache
+C:\Labs\DAA.TesteAtlasQuantum\src\DAA.TesteAtlasQuantum.WebAPI\obj\Debug\netcoreapp2.2\DAA.TesteAtlasQuantum.WebAPI.AssemblyInfo.cs
+C:\Labs\DAA.TesteAtlasQuantum\src\DAA.TesteAtlasQuantum.WebAPI\obj\Debug\netcoreapp2.2\DAA.TesteAtlasQuantum.WebAPI.RazorTargetAssemblyInfo.cache
+C:\Labs\DAA.TesteAtlasQuantum\src\DAA.TesteAtlasQuantum.WebAPI\obj\Debug\netcoreapp2.2\DAA.TesteAtlasQuantum.WebAPI.dll
+C:\Labs\DAA.TesteAtlasQuantum\src\DAA.TesteAtlasQuantum.WebAPI\obj\Debug\netcoreapp2.2\DAA.TesteAtlasQuantum.WebAPI.pdb
+C:\Labs\DAA.TesteAtlasQuantum\src\DAA.TesteAtlasQuantum.WebAPI\obj\Debug\netcoreapp2.2\DAA.TesteAtlasQuantum.WebAPI.csprojAssemblyReference.cache
